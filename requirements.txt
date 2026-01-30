@@ -1,0 +1,9 @@
+CUDA 11.3
+python 3.9
+numpy 1.26.4
+torch 1.12.1
+torchvision 0.13.1
+opencv-python
+Pillow 9.5.0
+scipy 1.13.1
+scikit-image 0.24.0
