@@ -1,2 +1,2 @@
-# MFIF-CSNet-Code
+# TMM-CSNet
 Code and Model for our paper "Clarity Contrast and Similarity Selection for Multi-Focus Image Fusion".
